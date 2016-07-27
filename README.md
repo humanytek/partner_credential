@@ -1,0 +1,3 @@
+Partner Credential
+==================
+TODO [IMP]
