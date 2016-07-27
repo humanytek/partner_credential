@@ -1,3 +1,3 @@
 Partner Credential
 ==================
-TODO [IMP]
+Add credential page to the partner notebook
