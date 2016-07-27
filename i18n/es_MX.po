@@ -1,0 +1,51 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* partner_credential
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-27 18:51+0000\n"
+"PO-Revision-Date: 2016-07-27 18:51+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: partner_credential
+#: view:res.partner:partner_credential.view_partner_form_curp
+msgid "Credential"
+msgstr "Credencial"
+
+#. module: partner_credential
+#: field:res.partner,elector_key:0
+msgid "Elector key"
+msgstr "Clave de elector"
+
+#. module: partner_credential
+#: field:res.partner,expiration_date:0
+msgid "Expiration date"
+msgstr "Fecha de vencimiento"
+
+#. module: partner_credential
+#: selection:res.partner,identification_type:0
+msgid "IFE"
+msgstr "IFE"
+
+#. module: partner_credential
+#: field:res.partner,identification_number:0
+msgid "Identification number"
+msgstr "Numero de identificación"
+
+#. module: partner_credential
+#: field:res.partner,identification_type:0
+msgid "Identification type"
+msgstr "Tipo de identificación"
+
+#. module: partner_credential
+#: selection:res.partner,identification_type:0
+msgid "Pasaporte"
+msgstr "Pasaporte"
